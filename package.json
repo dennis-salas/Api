@@ -1,0 +1,23 @@
+{
+  "name": "api-guajalotas-datos",
+  "version": "1.0.0",
+  "description": "Api para consumo de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennis-salas/Api.git"
+  },
+  "keywords": [],
+  "author": "Dennis Salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennis-salas/Api/issues"
+  },
+  "homepage": "https://github.com/dennis-salas/Api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
