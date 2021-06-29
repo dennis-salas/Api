@@ -1,0 +1,102 @@
+{
+     "categories": [
+        {
+             "category": "Guajalotas",
+             "title": "Verde",
+             "price": "$25 MXN",
+             "id": 1,
+             "image": "https://i.ibb.co/ZWhyfNx/guajolotas.png"
+        },
+        {
+            "category": "Guajalotas",
+            "title": "Mole",
+            "price": "$25 MXN",
+            "id": 2,
+            "image": "https://i.ibb.co/VjQZYwm/guajolotas-1.png"    
+        },
+        {
+            "category": "Guajalotas",
+            "title": "Guayaba",
+            "price": "$25 MXN",
+            "id": 3,
+            "image": "https://i.ibb.co/d4rQjK2/guajolotas-2.png"
+        },
+        {
+            "category": "Guajalotas",
+            "title": "Piña",
+            "price": "$25 MXN",
+            "id": 4,
+            "image": "https://i.ibb.co/rvgKGYm/guajolotas-3.png"    
+        },
+        {
+            "category": "Guajalotas",
+            "title": "Pasas",
+            "price": "$25 MXN",
+            "id": 5,
+            "image": "https://i.ibb.co/RvRY77d/guajolotas-4.png"
+        },
+        {
+            "category": "Bebidas",
+            "title": "Champurrado",
+            "price": "$12 MXN",
+            "id": 6,
+            "image": "https://i.ibb.co/ySxrsM6/bebidas-2.png"
+        },
+        {
+            "category": "Bebidas",
+            "title": "Atole de Arroz con Leche",
+            "price": "$12 MXN",
+            "id": 7,
+            "image": "https://i.ibb.co/600Dbf4/bebidas-1.png"
+        },
+        {
+            "category": "Bebidas",
+            "title": "Chocolate Caliente",
+            "price": "$12 MXN",
+            "id": 8,
+            "image": "https://i.ibb.co/ySxrsM6/bebidas-2.png"
+        },
+        {
+            "category": "Bebidas",
+            "title": "Café Negro",
+            "price": "$12 MXN",
+            "id": 9,
+            "image": "https://i.ibb.co/ySxrsM6/bebidas-2.png"
+        },
+        {
+            "category": "Tamales",
+            "title": "Tamal de Verde",
+            "price": "$14 MXN",
+            "id": 10,
+            "image": "https://i.ibb.co/vVb6fWR/tamales.png"
+        },
+        {
+            "category": "Tamales",
+            "title": "Tamal de Mole",
+            "price": "$14 MXN",
+            "id": 11,
+            "image": "https://i.ibb.co/YBw6k9y/tamales-1.png"    
+        },
+        {
+            "category": "Tamales",
+            "title": "Tamal de Guayaba",
+            "price": "$14 MXN",
+            "id": 12,
+            "image": "https://i.ibb.co/r7vQK2s/tamales-2.png"
+        },
+        {
+            "category": "Tamales",
+            "title": "Tamal de Piña",
+            "price": "$14 MXN",
+            "id": 13,
+            "image": "https://i.ibb.co/tpYtrPd/tamales-3.png"    
+        },
+        {
+            "category": "Tamales",
+            "title": "Tamal de Pasas",
+            "price": "$14 MXN",
+            "id": 14,
+            "image": "https://i.ibb.co/7Kv8D7p/tamales-4.png"
+        }
+    ]
+}
